@@ -6,3 +6,7 @@ def test():
 
 
 test()
+
+
+def new_feature_in_master_branch():
+    pass
