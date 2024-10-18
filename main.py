@@ -4,3 +4,7 @@ def print_hello_world():
 
 with open("file.log", "w") as f:
     f.write("Здесь какие-то логи")
+
+
+def new_feature_function(awesome_arguments):
+    print("Охуеть это новая фича!")
